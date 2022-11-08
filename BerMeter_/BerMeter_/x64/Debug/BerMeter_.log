@@ -1,0 +1,3 @@
+﻿  PN_Source.cpp
+D:\Poli\Magistrale\Sigal processing and wireless systems\BerMeter_\BerMeter_\PN_Source.cpp(101,27): warning C4554: '<<': controllare eventuali errori di precedenza tra gli operatori. Per maggiore chiarezza, usare le parentesi
+  BerMeter_.vcxproj -> D:\Poli\Magistrale\Sigal processing and wireless systems\BerMeter_\x64\Debug\BerMeter_.exe
